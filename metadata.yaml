@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1091
     wikipedia: http://en.wikipedia.org/wiki/Robert_Frost
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29345#Mountain-Interval
 gutenberg_issued: '2009-07-07'
 gutenberg_type: Text
 identifiers:
